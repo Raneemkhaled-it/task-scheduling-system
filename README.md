@@ -4,7 +4,7 @@ task scheduling system Java
 
 ## Overview
 
-This repository contains my contribution to the IT245 Data Structures group project. My work focused on implementing the Heap (Priority Queue) scheduling algorithm used to process tasks based on their priority.
+This repository contains my contribution to the Data Structures group project. My work focused on implementing the Heap (Priority Queue) scheduling algorithm used to process tasks based on their priority.
 
 ## My Responsibilities
 
